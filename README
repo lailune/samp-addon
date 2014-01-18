@@ -1,9 +1,12 @@
-SAMP-Addon by BJIADOKC
+San Andreas: Multiplayer Advanced Functionality Plugin
 
 ====================
 
 Client-side game-loadable module that communicates with another TCP server (transfering data/game extensibility/etc).
+High security conception & user frendly.
 
+Based on samp-addon by BJIADOKC
+https://github.com/BJIADOKC/samp-addon
 
 
 
